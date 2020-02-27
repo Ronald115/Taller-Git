@@ -1,1 +1,4 @@
+def saludar(nombre):
+	Print("Hola", nombre)
+nombre
 
